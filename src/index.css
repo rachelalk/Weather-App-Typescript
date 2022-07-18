@@ -32,8 +32,6 @@ body {
 
 #root {
   background: lightblue;
-  position: fixed;
-  overflow: hidden;
   width: 100%;
   height: 100%;
   cursor: url('https://cdn.custom-cursor.com/db/8583/32/minimal-panda-pointer.png') , pointer!important;
