@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.weather-display {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.weather-info {
+  display: flex;
+  flex-direction: row;
+  margin: auto;
+  gap: 10px;
+}
+
+.heading {
+  color: green;
+  font-family: 'Shadows Into Light', cursive;
+}
+
+.panda-image {
+  max-height: 250px;
+}
+
