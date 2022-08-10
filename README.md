@@ -24,9 +24,9 @@ Build a weather checker app using TypeScript and React that satisfies all of the
 
 
 
-###This app was built after learning Typescript for just two days.
+This app was built after learning Typescript for just two days.
 
-##Main learning points:
+Main learning points:
 - Although Typescript is very similar to Javascrpt figuring out which types to apply was a bit of a learning curve once we started to do things a little more advanced than adding a type to a simple variable.
 
 - Bringing an API into the mix made things even trickier, we debated what to do here, how best to tackle adding types to the JSON returned from our get request. We soon realise that there are tools available online that will handle this for you but we found that although these seemed to do what we needed, it wasn't particularly clear how to acually implement the result into our code so we spent a bit of time looking for an explanation. - Eventually we found a walk through and were able to successfully implement it and make use of it in our code.
@@ -37,7 +37,7 @@ Build a weather checker app using TypeScript and React that satisfies all of the
 
 - Typescript is a useful tool and I can see how it would help to prevent bugs but the learning curve from Javascript was trickier than I anticipated. I definitely need more practice although I feel much more confident and like I'd be able to use Typescript and problem solve a lot of the issues myself.
 
- <p>View our live app <a href="https://panda-weather.netlify.app/">here</a></p>.
+ <p>View our live app <a href="https://panda-weather.netlify.app/">here</a></p>
 
 
 
